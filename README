@@ -1,0 +1,3 @@
+phred.py is a very simple python library to handle the conversion of phred scores between float and log space.
+
+author:  Erik Garrison <erik.garrison@bc.edu>
